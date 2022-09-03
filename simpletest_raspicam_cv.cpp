@@ -8,7 +8,7 @@
 #include <sys/socket.h>
 using namespace std; 
 
-#define IP "192.168.86.5"
+#define IP "<IP_ADDRESS>"
 #define PORT 8123
 
 int main ( int argc,char **argv ) {
